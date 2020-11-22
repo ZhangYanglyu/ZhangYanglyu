@@ -4,7 +4,7 @@
 
 ## :book: About me
 - :computer:
-- :mortar_board:
+- :mortar_board: M.S student in control science and engineering at Chongqing University of Posts and Telecommunications (2019/09/01~)
 
 <!--
 **ZhangYanglyu/ZhangYanglyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
