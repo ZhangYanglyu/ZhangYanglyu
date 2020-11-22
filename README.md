@@ -2,10 +2,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhangYanglyu&include_all_commits=true&show_icons=true&count_private=true)](https://github.com/ZhangYanglyu/github-readme-stats)
 
-## :book: About me
-- :computer:
-- :mortar_board: M.S student in control science and engineering at Chongqing University of Posts and Telecommunications (2019/09/01~)
-
 <!--
 **ZhangYanglyu/ZhangYanglyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
