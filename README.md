@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZhangYanglyu&margin-w=15)](https://github.com/ZhangYanglyu/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZhangYanglyu)](https://github.com/ZhangYanglyu/github-profile-trophy)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhangYanglyu)](https://github.com/ZhangYanglyu/github-readme-stats)
 
