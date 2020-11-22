@@ -1,6 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZhangYanglyu)](https://github.com/ZhangYanglyu/github-profile-trophy)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhangYanglyu&show_icons=true)](https://github.com/ZhangYanglyu/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhangYanglyu&include_all_commits=true&show_icons=true&count_private=true)](https://github.com/ZhangYanglyu/github-readme-stats)
+
+## :book: About me
+- :computer:
+- :mortar_board:
 
 <!--
 **ZhangYanglyu/ZhangYanglyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
